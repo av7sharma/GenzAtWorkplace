@@ -6,8 +6,8 @@ import random
 
 # Reddit API Authentication (Replace with your credentials)
 reddit = praw.Reddit(
-    client_id='TftPqJozeDudRvMUQJM4IA',
-    client_secret='MZb_vhojCiSTJFz6mHIChDuD0bwkNg',
+    client_id='**************',
+    client_secret='*****************',
     user_agent='GenZ_Workplace_Crawler'
 )
 
