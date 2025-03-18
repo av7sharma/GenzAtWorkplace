@@ -96,11 +96,17 @@ reddit_overarching_themes_urgency.xlsx
 ## Output & Insights
 
 Identifies dominant workplace concerns based on discussion frequency.
-![Alt Text](output (2).png)
+
+![Alt Text](https://ibb.co/RTtQqPtx)
+
 Highlights sentiment trends (e.g., frustration with compensation & managerial support).
-![Alt Text](output (3).png)
+
+![Alt Text](https://ibb.co/yBkp7XHR)
+
 Maps urgency levels, helping organizations prioritize key workplace issues.
-![Alt Text](output (4).png)
+
+![Alt Text](https://ibb.co/RTqdjdCD))
+
 Enables researchers to analyze employee perceptions of work-life balance, growth, and well-being.
 
 ## Future Enhancements
